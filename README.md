@@ -1,16 +1,9 @@
-# cliente_facil
+# CLiente Easy
 
-A new Flutter project.
+Aplicativo de gerenciamento de contas de cliente.
 
-## Getting Started
+## Motivação do projeto
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Meu projeto desenvolvido com FLutter e SQLite, basicamente 
+cobre uma dor que uma pessoa próxmo a mim sofria, por não 
+ter o gerenciamento correto de clientes.
